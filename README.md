@@ -5,17 +5,17 @@ This is used in the demonstration of development of Ansible Playbooks.
   
   Below are the steps required to get this working on a base linux system.
   
-  - Install all required dependencies
-  - Install and Configure Database
-  - Start Database Service
-  - Install and Configure Web Server
-  - Start Web Server
+  > Install all required dependencies
+  > Install and Configure Database
+  > Start Database Service
+  > Install and Configure Web Server
+  > Start Web Server
    
 ## 1. Install all required dependencies
   
   Python and its dependencies
 
-    apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
+    sudo apt-get install -y python3 python3-setuptools python3-dev build-essential python3-pip python3-mysqldb
 
    
 ## 2. Install and Configure Database
