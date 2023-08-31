@@ -1,14 +1,14 @@
 # Simple Web Application
 
-This is a simple web application using [Python Flask](http://flask.pocoo.org/) and [MySQL](https://www.mysql.com/) database. 
-This is used in the demonstration of development of Ansible Playbooks.
+This web application uses [Python Flask](http://flask.pocoo.org/) and [MySQL](https://www.mysql.com/) database. 
+This demonstration is for the development of Ansible Playbooks.
   
-  Below are the steps required to get this working on a base linux system.
+Require steps to get this workable on a Linux system.
   
   > Install all required dependencies
   > Install and Configure Database
   > Start Database Service
-  > Install and Configure Web Server
+  > Install and Configure the Web Server
   > Start Web Server
    
 ## 1. Install all required dependencies
