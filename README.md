@@ -40,7 +40,7 @@ Require steps to get this workable on a Linux system.
         
   - Insert some test data
         
-        mysql> INSERT INTO employees VALUES ('JOHN');
+        mysql> INSERT INTO employees VALUES ('nur');
     
 ## 4. Install and Configure Web Server
 
